@@ -1,5 +1,6 @@
 shell = "/bin/zsh"
-
+[window]
+opacity = 0.85
 [font]
 normal = { family = "Iosevka Term medium"}
 size = 11.5
